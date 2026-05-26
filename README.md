@@ -51,5 +51,6 @@ This project includes:
 - Top rock bands
 - Songs longer than average duration
 
----<img width="941" height="776" alt="Music store analysis-Questions" src="https://github.com/user-attachments/assets/2a35ed07-5de2-42ea-be07-6f822158a0a6" />
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/3d6f05e8-6cad-48d0-9aee-568515a861a5" />
+
 
